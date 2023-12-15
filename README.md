@@ -8,3 +8,7 @@
 - ✅ FydeOS (Chrome)
 
 **I recommend using Brave on Windows for better FPS!**
+
+ <p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/JT_Studio-Verified-green">
+  </p>
