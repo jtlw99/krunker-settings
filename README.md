@@ -6,6 +6,7 @@
 - ✅ ReviOS 11 23.09 (Brave, Firefox, Chrome)
 - ✅ ChromeOS Flex (Chrome)
 - ✅ FydeOS (Chrome)
+- ✅ ZorinOS 17 CORE (Firefox) (gnome)
 
 **I recommend using Brave on Windows for better FPS!**
 
